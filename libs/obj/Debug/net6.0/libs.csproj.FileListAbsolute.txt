@@ -1,0 +1,12 @@
+/Users/hannahfrank/Documents/GitHub/Game1/libs/bin/Debug/net6.0/libs.deps.json
+/Users/hannahfrank/Documents/GitHub/Game1/libs/bin/Debug/net6.0/libs.dll
+/Users/hannahfrank/Documents/GitHub/Game1/libs/bin/Debug/net6.0/libs.pdb
+/Users/hannahfrank/Documents/GitHub/Game1/libs/obj/Debug/net6.0/libs.csproj.AssemblyReference.cache
+/Users/hannahfrank/Documents/GitHub/Game1/libs/obj/Debug/net6.0/libs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hannahfrank/Documents/GitHub/Game1/libs/obj/Debug/net6.0/libs.AssemblyInfoInputs.cache
+/Users/hannahfrank/Documents/GitHub/Game1/libs/obj/Debug/net6.0/libs.AssemblyInfo.cs
+/Users/hannahfrank/Documents/GitHub/Game1/libs/obj/Debug/net6.0/libs.csproj.CoreCompileInputs.cache
+/Users/hannahfrank/Documents/GitHub/Game1/libs/obj/Debug/net6.0/libs.dll
+/Users/hannahfrank/Documents/GitHub/Game1/libs/obj/Debug/net6.0/refint/libs.dll
+/Users/hannahfrank/Documents/GitHub/Game1/libs/obj/Debug/net6.0/libs.pdb
+/Users/hannahfrank/Documents/GitHub/Game1/libs/obj/Debug/net6.0/ref/libs.dll

@@ -52,9 +52,10 @@ public static class GameEngine
 
     public static void Render() {
         //Clean the map
+        Console.OutputEncoding = System.Text.Encoding.UTF8;
         Console.Clear();
 
-        _focusedObject = gameObjects[0];
+        _focusedObject = gameObjects[1];
 
         map.Initialize();
 

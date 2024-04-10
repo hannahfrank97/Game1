@@ -62,7 +62,8 @@ public class GameObject : IMovement
         return _prevPosX;
     }
 
-    public void Move(int dx, int dy) {
+//void makes sure that every character can have their own movement logic
+    public virtual void Move(int dx, int dy) {
         _prevPosX = _posX;
         _prevPosY = _posY;
         _posX += dx;

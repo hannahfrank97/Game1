@@ -11,11 +11,11 @@
         "PosY": 7
       },
       {
-        "Type": 0,
+        "Type": 2,
         "Color": 5,
         "PosX": 2,
-        "PosY": 1,
-        "CharRepresentation": "♘"
+        "PosY": 1
+        
       },
       {
         "Type": 1,

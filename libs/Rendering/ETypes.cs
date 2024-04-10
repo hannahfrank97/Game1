@@ -1,5 +1,6 @@
 public enum GameObjectType
 {
   Queen,
-  King
+  King,
+  Knight,
 }
